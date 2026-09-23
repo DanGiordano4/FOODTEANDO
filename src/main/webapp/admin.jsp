@@ -13,6 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>FFood | Dashboard</title>
+  
 
     <%@ include file="WEB-INF/jspf/resources.jspf" %>
     <%@ include file="WEB-INF/jspf/adminDataTables.jspf" %>
